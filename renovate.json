@@ -5,5 +5,11 @@
     "group:jsTest",
     ":prHourlyLimitNone",
     ":prConcurrentLimitNone"
+  ],
+  "packageRules": [
+    {
+      "matchPackageNames": ["vue", "vue-template-compiler"],
+      "allowedVersions": "< 2.7"
+    }
   ]
 }
