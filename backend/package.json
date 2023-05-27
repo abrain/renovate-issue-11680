@@ -19,7 +19,7 @@
     "feathers-objection": "^7.5.3",
     "feathers-swagger": "^1.2.2",
     "helmet": "^4.6.0",
-    "knex": "^0.21.21",
+    "knex": "^0.95.0",
     "ldapauth-fork": "^5.0.5",
     "mysql2": "^2.3.3",
     "objection": "^2.2.18",
