@@ -24,7 +24,7 @@
     "mysql2": "^2.3.3",
     "objection": "^2.2.18",
     "serve-favicon": "^2.5.0",
-    "winston": "^3.8.2"
+    "winston": "^3.9.0"
   },
   "devDependencies": {
     "@faker-js/faker": "^6.3.1",
