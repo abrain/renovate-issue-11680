@@ -22,7 +22,7 @@
     "knex": "^0.21.21",
     "ldapauth-fork": "^5.0.5",
     "mysql2": "^2.3.3",
-    "objection": "^2.2.18",
+    "objection": "^3.0.0",
     "serve-favicon": "^2.5.0",
     "winston": "^3.8.2"
   },
