@@ -8,7 +8,7 @@
     "@feathersjs/socketio-client": "^4.5.16",
     "@popperjs/core": "^2.11.8",
     "@vue/composition-api": "^1.7.1",
-    "bootstrap": "^5.2.3",
+    "bootstrap": "^5.3.1",
     "bootstrap-icons": "^1.10.5",
     "core-js": "^3.30.2",
     "feathers-hooks-common": "^5.0.6",
