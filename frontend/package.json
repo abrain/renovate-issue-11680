@@ -10,7 +10,7 @@
     "@vue/composition-api": "^1.7.1",
     "bootstrap": "^5.2.3",
     "bootstrap-icons": "^1.10.5",
-    "core-js": "^3.30.2",
+    "core-js": "^3.32.1",
     "feathers-hooks-common": "^5.0.6",
     "feathers-vuex": "^3.16.0",
     "js-sha256": "^0.9.0",
