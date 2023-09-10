@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "feathers-hooks-common": "^5.0.6",
     "feathers-objection": "^7.6.0",
-    "feathers-swagger": "^1.2.2",
+    "feathers-swagger": "^3.0.0",
     "helmet": "^7.0.0",
     "knex": "^2.4.2",
     "ldapauth-fork": "^5.0.5",
